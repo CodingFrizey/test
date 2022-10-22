@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'proxima_nova_ltsemibold';
+	src: url(../../assets/fonts/Mark%20Simonson%20-%20Proxima%20Nova%20Semibold-webfont.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Mark%20Simonson%20-%20Proxima%20Nova%20Semibold-webfont.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Mark%20Simonson%20-%20Proxima%20Nova%20Semibold-webfont.woff2) format('woff2'),
+	url(../../assets/fonts/Mark%20Simonson%20-%20Proxima%20Nova%20Semibold-webfont.ttf) format('truetype'),
+	url(../../assets/fonts/Mark%20Simonson%20-%20Proxima%20Nova%20Semibold-webfont.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
