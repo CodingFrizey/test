@@ -35,6 +35,10 @@
   line-height: 40px;
 }
 
+.a {
+color: #d90037;
+}
+
 .sidebar-nav li a {
   display: block;
   text-decoration: none;
